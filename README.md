@@ -1,16 +1,12 @@
 # fruit_hub_dash
+The Dashboard App, built using Flutter, provides admin functionality to add products, manage orders, and track users seamlessly. The app follows Clean Code principles for maintainability and scalability, utilizing State Management ( Bloc) for optimized performance.
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Product Management: Admins can add, edit, and delete products effortlessly.
+ Order Tracking: Real-time order management and status updates with push notifications.
+ User Management: Monitor and manage users effectively.
+ Responsive UI: A seamless and adaptive design across different devices.
+ Firebase Integration: Secure authentication, real-time database,
+ State Management  Bloc : Ensuring smooth and efficient app performance.
