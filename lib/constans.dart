@@ -1,0 +1,3 @@
+const kSupabaseUrl = 'https://qcpdiktmiuryrjunmjuy.supabase.co';
+const kSupabaseKey =
+    'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InFjcGRpa3RtaXVyeXJqdW5tanV5Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTczMTQwMjA4MSwiZXhwIjoyMDQ2OTc4MDgxfQ.tGgrqGJzvCMw3HsTY9B-zKKBa0KbNp4IP9o-JiTmKYo';
